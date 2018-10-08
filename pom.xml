@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<!--- Added Comment --->
+	<!--- added another comment--->
 
 	<groupId>com.h2.demo</groupId>
 	<artifactId>h2-demo</artifactId>
